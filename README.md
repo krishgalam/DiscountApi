@@ -1,2 +1,1 @@
-# DiscountApi
-.NETCore microservice in Docker Container .NET Core, Web API, Docker, Containerization
+Reference URL https://code.visualstudio.com/docs/containers/quickstart-aspnet-core
